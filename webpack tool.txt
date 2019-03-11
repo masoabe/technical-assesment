@@ -1,0 +1,19 @@
+{
+    "author": "New york time>",
+    "description": "",
+    "name" :, "Angular",
+    "type":,
+    "url": http://api. nytmimes.com/svc/ archieve/=html"
+
+},
+"scripts" :{
+    "build" : "webpack tool",
+}
+}
+
+
+<html "SPA nytmimes">
+< head>
+<title> Angular&webpack'>
+</head>
+</html>
